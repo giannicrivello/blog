@@ -12,7 +12,7 @@ blog({
 
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
+  avatar: "./blog/staic/profile_header.png",
   avatarClass: "rounded-full",
   author: "An author",
 
