@@ -40,6 +40,7 @@ blog({
   
   showHeaderOnPostPage: true,
 
+
   // middlewares: [
 
     // If you want to set up Google Analytics, paste your GA key here.
