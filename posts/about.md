@@ -20,5 +20,5 @@ This site was hacked together to be used as an outlet to explore and teach topic
 
 ## exta curricular
 
-I am a first degree black belt in Brazillian Jiu-Jitsu under Ralph Gracie and used to be a competitive athlete. I have taught hundreds of people from introduction courses to advanced theory of the topic. 
+I am a first degree Brazillian Jiu-Jitsu black belt under Ralph Gracie and used to be a competitive athlete. I have taught hundreds of people from introduction courses to advanced theory of the topic. 
 
