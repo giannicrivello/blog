@@ -18,7 +18,7 @@ This site is hacked together to be used as an outlet to explore and teach topics
 
 [hackathon projects](/past_projects)
 
-## exta curricular
+## extra curricular
 
 I am a first degree Brazillian Jiu-Jitsu black belt under Ralph Gracie and used to be a competitive athlete. I have taught hundreds of people from introduction courses to advanced theory of the topic. 
 
