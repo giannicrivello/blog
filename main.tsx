@@ -17,6 +17,9 @@ blog({
   <header class="w-full h-90 lt-sm:h-80 bg-cover bg-center bg-no-repeat">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+    <script type="module" src="highlighter.js"></script>
+    <link rel="stylesheet" href="/core/src/themes/github-light.css"></link>
 
     <div class = "max-w-screen-sm h-full px-6 mx-auto flex flex-col items-center justify-center">
     <a href="/" class="bg-cover bg-center bg-no-repeat w-25 h-25 border-4 border-white rounded-full" style="background-image: url(./static/profile_header.png);"></a>
