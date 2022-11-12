@@ -9,9 +9,9 @@ author: Gianni Crivello
 
 #Languages: C++, Rust, Java, Python, TypeScript
 
-Hi! My name is Gianni and I am an undergrad at PSU currently studying calculus, compilers, and operating systems. 
+Hi! My name is [Gianni](https://www.linkedin.com/in/gianni-crivello-60799a1a5/) and I am an undergrad at PSU currently studying calculus, compilers, and operating systems. 
 
-This site was hacked together to be used as an outlet to explore and teach topics I find interesting in the world of tech. I am a compiler enthusiast, language nerd, and love sharing my knowledge with others. If you find an issue in the text please correct me by submitting a pull request to the corresponding blog post. I will always link the post's repo including code snippets. 
+This site is hacked together to be used as an outlet to explore and teach topics I find interesting in the world of tech. I am a compiler enthusiast, language nerd, and love sharing my knowledge with others. If you find an issue in the text please correct me by submitting a pull request to the corresponding blog post. I will always link the post's repo including code snippets. 
 
 
 ## projects 
