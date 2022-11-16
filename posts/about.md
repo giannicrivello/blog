@@ -3,11 +3,11 @@ title: About Me!
 publish_date: 2022-11-11
 author: Gianni Crivello
 ---
-#Currently: Finishing my Bachelors of Computer Science 🎓
+**Currently**: Finishing my Bachelors of Computer Science 🎓
 
-#AreasOfInterest: compilers, ML, JS frameworks, SMT solvers, formal verification, and blockchain
+**Areas Of Interest**: compilers, ML, JS frameworks, SMT solvers, formal verification, and blockchain
 
-#Languages: C++, Rust, Java, Python, TypeScript
+**Languages**: C++, Rust, Java, Python, TypeScript
 
 Hi! My name is [Gianni](https://www.linkedin.com/in/gianni-crivello-60799a1a5/) and I am an undergrad at PSU currently studying calculus, compilers, and operating systems. 
 
