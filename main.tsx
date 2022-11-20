@@ -9,7 +9,7 @@ blog({
 
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "./static/profile_header.png",
+  avatar: "./static/puck.jpg",
   avatarClass: "rounded-full",
   author: "An author",
   //support for mathJax
