@@ -5,7 +5,7 @@ author: Gianni Crivello
 ---
 **Currently**: Finishing my Bachelors of Computer Science 🎓
 
-**Areas Of Interest**: compilers, ML, runtimes, and SW/HW co-design
+**Areas Of Interest**: compilers, ML, runtimes, graphics, and SW/HW co-design
 
 **Languages**: C++, Rust, Java, Python, TypeScript
 
